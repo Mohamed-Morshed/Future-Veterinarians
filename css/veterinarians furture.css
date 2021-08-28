@@ -6,6 +6,9 @@ font-family: 'Markazi Text', serif;
     --font: 'Markazi Text', serif;
     --special-heading-color: #06084c;
 }
+html{
+    scroll-behavior: smooth;
+}
 header{
     position: absolute;
     width: 100%;
