@@ -4,7 +4,7 @@ font-family: 'Markazi Text', serif;
 :root{
     --links-color: #777;
     --font: 'Markazi Text', serif;
-    --special-heading-color: #06084c;
+    --special-heading-color: #0d1069;
 }
 html{
     scroll-behavior: smooth;
