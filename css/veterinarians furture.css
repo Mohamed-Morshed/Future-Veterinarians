@@ -4,7 +4,7 @@ font-family: 'Markazi Text', serif;
 :root{
     --links-color: #777;
     --font: 'Markazi Text', serif;
-    --special-heading-color: #0d1069;
+    --special-heading-color: #1a1eb7;
 }
 html{
     scroll-behavior: smooth;
@@ -277,7 +277,7 @@ section .container-two div p{
     color: white;
 }
 .lectureres{
-    background-color: var(--special-heading-color);
+    background-color: #06084c;
     padding-bottom: 90px;
 }
 .lectureres .container .container-lec{
