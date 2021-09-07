@@ -382,7 +382,7 @@ section .container-two div p{
     .whats-up i{
         color: var(--special-heading-color);
     margin-right: 5px;
-    padding-top: 4px;
+    padding-top: 0px;
     font-weight: bold;
     }
     .gmail a{
