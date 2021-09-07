@@ -424,3 +424,75 @@ section .background .container .logo-belal{
     margin-left: -4px;
     }
 }
+section .supervesion .container .special-heading h1{
+    font-size: 30pt;
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 0px;
+}
+@media(min-width:670px){
+section .supervesion .container{
+    width: 600px;
+    }
+}
+@media(min-width:950px){
+section .supervesion .container{
+    width: 850px;
+    }
+}
+section .supervesion {
+    background-color: #06084c;
+}
+section .supervesion .container .names{
+    color: white;
+}
+section .supervesion .container .names .university{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+/* section .supervesion .container .names .university div{
+    margin-right: 20px;
+    margin-left: 20px;
+} */
+section .supervesion .container .names .university p{
+    font-size: 15pt;
+    margin-top: -10px;
+}
+section .supervesion .container .names .university h2{
+    font-size: 15pt;
+}
+/* section .supervesion .container .names .faculty div{
+    margin-right: 20px;
+    margin-left: 20px;
+} */
+section .supervesion .container .names .faculty{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+section .supervesion .container .names .faculty p{
+    font-size: 15pt;
+    margin-top: -10px;
+}
+section .supervesion .container .names .faculty h2{
+    font-size: 15pt;
+}
+.faculty-two{
+    padding-bottom: 25px;
+text-align: center;
+}
+.faculty-two h2, .faculty-two p{
+    font-size: 15pt;
+}
+.faculty-two p{
+    margin-top: -10px;
+}
+@media (max-width:669px){
+    section .supervesion .container .names .faculty{
+        display: block;
+    }
+    section .supervesion .container .names .university{
+        display: block;
+    }
+}
